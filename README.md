@@ -2,5 +2,9 @@
 Christopher Alfaro
 First comment
 This is a change on newbranch
-testbranch edit
 
+testbranch edit
+new git branch on GitHub
+Conflicts resolved
+testbranch edit
+Conflict resloved
